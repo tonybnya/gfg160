@@ -28,6 +28,10 @@ hence the reversed array is same as the original.
 Constraints:
 1<=arr.size()<=10^5
 0<=arr[i]<=10^5
+
+Expected Complexities:
+Time Complexity: O(n)
+Auxiliary Space: O(1)
 """
 
 

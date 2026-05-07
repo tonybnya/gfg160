@@ -25,6 +25,10 @@ Maximum Profit = 2.
 Constraints:
 1 <= prices.size() <= 10^5
 0 <= prices[i] <= 10^4
+
+Expected Complexities:
+Time Complexity: O(n)
+Auxiliary Space: O(1)
 """
 
 

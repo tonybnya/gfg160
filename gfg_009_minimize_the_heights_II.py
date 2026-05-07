@@ -30,6 +30,10 @@ Constraints
 1 ≤ k ≤ 10^7
 1 ≤ n ≤ 10^5
 1 ≤ arr[i] ≤ 10^7
+
+Expected Complexities:
+Time Complexity: O(n)
+Auxiliary Space: O(1)
 """
 
 

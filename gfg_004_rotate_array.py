@@ -24,6 +24,10 @@ Explanation: when we rotate 9 times, we'll get 3 9 1 7 as resultant array.
 Constraints:
 1 <= arr.size(), d <= 10^5
 0 <= arr[i] <= 10^5
+
+Expected Complexities:
+Time Complexity: O(n)
+Auxiliary Space: O(1)
 """
 
 

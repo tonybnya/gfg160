@@ -27,6 +27,10 @@ Explanation: The next permutation of the given array is [3, 4, 5, 1, 2].
 Constraints:
 1 ≤ arr.size() ≤ 10^5
 0 ≤ arr[i] ≤ 10^5
+
+Expected Complexities:
+Time Complexity: O(n)
+Auxiliary Space: O(1)
 """
 
 

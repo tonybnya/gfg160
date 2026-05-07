@@ -24,6 +24,10 @@ Explanation: The largest element of the array is 10 and the second largest eleme
 Constraints:
 2 ≤ arr.size() ≤ 10^5
 1 ≤ arr[i] ≤ 10^5
+
+Expected Complexities:
+Time Complexity: O(n)
+Auxiliary Space: O(1)
 """
 
 
