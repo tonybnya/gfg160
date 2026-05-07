@@ -46,6 +46,9 @@ To participate in the official GeeksforGeeks challenge:
 | 9   | Minimize the Heights II                           | Medium     | ✅     |
 | 10  | Kadane's Algorithm                                | Medium     | ✅     |
 | 11  | Maximum Product Subarray                          | Medium     | ✅     |
+| 12  | Max Circular Subarray Sum                         | Hard       | ✅     |
+| 13  | Smallest Positive Missing                         | Medium     | ✅     |
+| 14  | Implement Atoi                                    | Medium     | ✅     |
 
 ## License
 
