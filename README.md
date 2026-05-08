@@ -49,6 +49,7 @@ To participate in the official GeeksforGeeks challenge:
 | 12  | Max Circular Subarray Sum                         | Hard       | ✅     |
 | 13  | Smallest Positive Missing                         | Medium     | ✅     |
 | 14  | Implement Atoi                                    | Medium     | ✅     |
+| 15  | Add Binary Strings                                | Medium     | ✅     |
 
 ## License
 
